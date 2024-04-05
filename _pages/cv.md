@@ -34,9 +34,9 @@ Research experience
   
 Skills
 ======
-* Language：proficient in Python, Netlog.
-* Knowledge：proficient in complex system modeling; Competent to game theory and data analytics; Understand Economic theory.
-*Tool: competent in Word, Origin, Matlab, Stata, Netlog, VosViewer.
+* Language：Proficient in Python, Netlog.
+* Knowledge：Proficient in complex system modeling; Competent to game theory and data analytics; Understand Economic theory.
+* Tool：Competent in Word, Origin, Matlab, Stata, Netlog, VosViewer.
 
 Publications
 ======
