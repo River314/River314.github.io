@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Management Science and Engineering, Nanjing University, 2027 (expected)
+* M.S. in Industrial Engineering and Management, Nanjing University, 2020
+* B.S. in Engineering Management, Nanjing Agricultural University, 2016
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -34,12 +34,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language：proficient in Python, Netlog.
+* Knowledge：proficient in complex system modeling; Competent to game theory and data analytics; Understand Economic theory
+*Tool: competent in Word, Origin, Matlab, Stata, Netlog, VosViewer.
 
 Publications
 ======
