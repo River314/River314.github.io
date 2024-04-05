@@ -31,7 +31,7 @@ Research experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Language：Proficient in Python, Netlog.
